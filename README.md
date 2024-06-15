@@ -12,6 +12,17 @@ Repository Description:
 
 Version of java 17 -Scanner Classes -Math classes -Functions -Switch
 
+Objectives
+Handle User Input Efficiently:
+
+Implement the Scanner class to capture and process various types of user input, ensuring smooth interaction and handling common input issues.
+Provide Multiple Functionalities:
+
+Offer a menu-driven interface where users can choose between different operations, such as summing two numbers, printing a string, and calculating the cosine of a number.
+Implement Control Flow with Switch Statements:
+
+Use switch statements to manage program flow based on user selections, demonstrating effective use of control structures in Java.
+
 Create a program that does the following.
 
 1)Read by keyboard 3 options such as A, B and C.
