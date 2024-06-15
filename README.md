@@ -13,6 +13,7 @@ Repository Description:
 Version of java 17 -Scanner Classes -Math classes -Functions -Switch
 
 Objectives
+
 Handle User Input Efficiently:
 
 Implement the Scanner class to capture and process various types of user input, ensuring smooth interaction and handling common input issues.
