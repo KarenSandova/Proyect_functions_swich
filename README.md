@@ -31,6 +31,7 @@ The language of third-party libraries or packages using JavaScript, especially d
 Screenshots with the program running:
 
 Image 1
+
 ![image](https://github.com/KarenSandova/Proyect_functions_swich/assets/170044920/1e63c737-7097-4887-bcc2-0a9c30ebf152)
 
 Image 2 
